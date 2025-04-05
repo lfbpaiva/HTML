@@ -24,5 +24,6 @@ Este é um projeto simples em HTML, CSS e JavaScript que implementa uma **lista 
 ---
 
 🧑‍💻 Autor
-Desenvolvido por lgbpaiva.
+Desenvolvido por lfbpaiva.
+
 Sinta-se livre para contribuir com sugestões ou melhorias!
