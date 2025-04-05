@@ -16,6 +16,7 @@ Este é um projeto simples em HTML, CSS e JavaScript que implementa uma **lista 
 📁 Estrutura do Projeto
 
 📦 seu-projeto/
+
 ├── index.html       
 ├── main.css         
 └── app.js          
