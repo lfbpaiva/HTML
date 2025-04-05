@@ -2,10 +2,6 @@
 
 Este é um projeto simples em HTML, CSS e JavaScript que implementa uma **lista de tarefas** com **suporte a temas claro e escuro**, alternáveis por um botão estilizado.
 
-## 🖼️ Demonstração
-
-![Preview do Projeto](preview.png) <!-- substitua por um screenshot real do projeto, se quiser -->
-
 ---
 
 ## ✨ Funcionalidades
